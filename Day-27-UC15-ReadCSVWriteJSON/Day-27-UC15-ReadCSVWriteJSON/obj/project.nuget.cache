@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgBL+FwP75+EmDK7J7REGEmzjH8YWSOnIWd/Pxw5Hb6DVWskxDKEq4OVi83WUA45dd2es8HlntJFhoLio5m1iw==",
+  "success": true,
+  "projectFilePath": "C:\\RFP\\C_sharp\\Day-27-UC15-ReadCSVWriteJSON\\Day-27-UC15-ReadCSVWriteJSON\\Day-27-UC15-ReadCSVWriteJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sudhanshu\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\Sudhanshu\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
